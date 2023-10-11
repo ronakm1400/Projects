@@ -1,0 +1,7 @@
+CVFS Stands for Customized Virtual File System.
+
+This project provides all the functionality to the user which is similiar to the UNIX/Linux File System.
+
+It provides necessary commands , system call implementations of the file system through customized shell	 
+
+In this project there are all necessary data structures(kernel) of file systems like Incore Inode Table,File Table,UAREA(User-Area),User File Descriptor Table(UFDT).
