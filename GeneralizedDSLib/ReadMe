@@ -1,0 +1,10 @@
+Generalized DataStructures Library project is used to implement the all functionalities of data structures.
+
+It consists the implementation of the LinkedList,Stack,Queue.
+
+The functionality provided in code in LinkedLists are :
+
+1.SinglyLinear
+2.SinglyCircular
+3.DoublyLinear
+4.DoublyCircular
